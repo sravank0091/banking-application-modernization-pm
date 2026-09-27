@@ -49,6 +49,9 @@ The case study focuses on coordinating business stakeholders, application teams,
 | [Cutover and Hypercare](cutover-and-hypercare.md) | Deployment readiness and post-release support |
 | [Lessons Learned](lessons-learned.md) | Challenges, corrective actions, and recommendations |
 
+
+| [Project Dashboard](project-dashboard.md) | Project health, milestones, KPIs, and status reporting |
+
 ## 5. Tools and Techniques Demonstrated
 
 - Project planning and milestone management
